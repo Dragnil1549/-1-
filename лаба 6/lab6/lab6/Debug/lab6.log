@@ -1,0 +1,11 @@
+﻿  Funcs.cpp
+C:\Учёба\Алгоритмы и структура данных\Лабы\лаба 6\lab6\lab6\Funcs.h(5,1): warning C4005: INT_MAX: изменение макроопределения
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Enterprise\VC\Tools\MSVC\14.29.30133\include\limits.h(36): message : см. предыдущее определение "INT_MAX"
+C:\Учёба\Алгоритмы и структура данных\Лабы\лаба 6\lab6\lab6\Funcs.cpp(6,23): warning C4018: <: несоответствие типов со знаком и без знака
+  lab6.cpp
+C:\Учёба\Алгоритмы и структура данных\Лабы\лаба 6\lab6\lab6\Funcs.h(5,1): warning C4005: INT_MAX: изменение макроопределения
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Enterprise\VC\Tools\MSVC\14.29.30133\include\limits.h(36): message : см. предыдущее определение "INT_MAX"
+C:\Учёба\Алгоритмы и структура данных\Лабы\лаба 6\lab6\lab6\lab6.cpp(5,1): warning C4326: возвращаемый тип "main" должен быть "int", а не "void"
+C:\Учёба\Алгоритмы и структура данных\Лабы\лаба 6\lab6\lab6\lab6.cpp(39,19): warning C4804: <: небезопасное использование типа "bool" в операции
+  Создание кода...
+  lab6.vcxproj -> C:\Учёба\Алгоритмы и структура данных\Лабы\лаба 6\lab6\Debug\lab6.exe
